@@ -32,7 +32,7 @@
 
 [Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
 
-## Features
+## Features avec ou son 
 
 - **Multiple file upload:**  
   Allows to select multiple files at once and upload them simultaneously.
